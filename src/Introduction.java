@@ -1,4 +1,8 @@
-
+/** My first java project for CST-105.
+ *  meant to print my introduction to the console
+ * @author Omira
+ *
+ */
 public class Introduction {
 	 public static void main(String[]args) {
 		 
